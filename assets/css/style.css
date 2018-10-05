@@ -1,0 +1,36 @@
+
+body {
+    background-color: gray;
+}
+
+div {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+#header {
+    font-size: 125%;
+    padding: 20px;
+    background-color: #388659;
+    text-align: center;
+}
+
+#schedule {
+    font-size: 125%;
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+
+#addTrain {
+    Margin-top:15px;
+}
+
+#addTrainForm {
+    font-size: 125%;
+    padding: 20px;
+    background-color: #388659;
+    text-align: center;
+}
+
